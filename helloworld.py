@@ -1,2 +1,2 @@
 #!/usr/bin/python
-print("Hello my friends of SG Software :-)"
+print("Hello my friends of SG Software :-)")
